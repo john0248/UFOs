@@ -23,11 +23,14 @@ The nice thing about this filtering setup is the website clears out the search c
 
 ![image](filters.png)
 
-## Summary:
+The website is fun and a great start for Dana.  A few changes could be made if she wishes to keep the site up for any length of time.
 
-The summary addresses one drawback of this webpage:
-1. case sensivtive 
-2. if you use the date, it must be exactly date within the data to get a result.
+Current drawbacks to the webpage:
+1.	The filters are case sensitive.  Currently the filters are setup to read exactly from the data JavaScript file.  Meaning if the data in the file has city in lower case (bakersfield) it will not give a result if (Bakersfield) is used.  
+2.	A similar theme comes when we use the date filter.  We must use an exact date to get a result. A user may not have an exact date a sighting was seen. This really reduces the use of the date filter’s usefulness for the user. 
 
-The summary addresses two additional recommendations for further development:
-1. Allow a user to see what years are covered within the dataset.  
+After play on the website, here are a couple of changes I would recommend:
+1.	Adjust the filtering to remove the case sensitive issue.  Maybe even allow the search to auto suggest a selection based on what is being written into the field.  
+2.	Another possible selection feature would be date ranges instead of a single date.  This could allow a user to grab more information at one time.
+
+
