@@ -1,11 +1,11 @@
 # UFOs
 
-## Analysis
-The written analysis has the following:
+## Overview of the project:
 
-## Overview of the analysis:
+Dana a data journalist wants to write about her hometown and its famous UFO sightings.  The article will be published online.  Dana has been able to obtain a JavaScript file filled with UFO sightings.  This file contains location, country, type of sight and other information.  Dana’s goal is to create a dynamic website that uses the JavaScript data allowing a user to filter to the information they wish to see within the website.  She will need a dynamic webpage which filters UFO data based on a search criterion. 
 
-The purpose is well defined
+![image](https://user-images.githubusercontent.com/43078788/115173397-1003b780-a07c-11eb-933b-f1e9b267a3ed.png)
+
 
 ## Results:
 
